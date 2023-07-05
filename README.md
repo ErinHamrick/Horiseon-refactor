@@ -5,9 +5,12 @@
 In order to make this page more friendly for search engines across the web, I added semantic HTML to the page. 
 This included header elements as well as section, nav and aside in order to replace the existing div tags.git
 
-assets/images/screenshot (2).png 
+https://erinhamrick.github.io/Horiseon-refactor/
+
+![screenshot of webpage](assets/images/screenshot(2).png)
 
 ## License
+
 MIT License
 
 Copyright (c) 2023 Erin Hamrick
