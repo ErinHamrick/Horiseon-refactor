@@ -7,7 +7,7 @@ This included header elements as well as section, nav and aside in order to repl
 
 https://erinhamrick.github.io/Horiseon-refactor/
 
-![screenshot of webpage](assets/images/screenshot(2).png)
+![screenshot of webpage](./assets/screenshot/Screenshot%20(2).png)
 
 ## License
 
